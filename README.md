@@ -13,6 +13,11 @@ Os relatórios incluídos abordam tanto a análise de vendas quanto a análise d
 - Oferecer insights estratégicos que possam apoiar a tomada de decisão.
 - Sugerir recomendações baseadas em dados para otimizar operações e aumentar a rentabilidade.
 
+## Principais Visualizações
+
+- **Dashboard de Vendas**: Visão geral das vendas totais, unidades vendidas, descontos, vendas brutas e COGS. Inclui análises mensais, por segmento, produto e por país.
+- **Dashboard de Lucro**: Visão detalhada do lucro, com segmentação por ano, país, produto e trimestre.
+
 ---
 
 ## Visão Geral do Relatório de Vendas
