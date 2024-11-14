@@ -84,3 +84,8 @@ Os relatórios incluídos abordam tanto a análise de vendas quanto a análise d
 ---
 
 Este relatório servirá como um guia estratégico para otimizar as operações e aumentar a lucratividade da empresa, com foco em produtos, segmentos e mercados prioritários.
+
+## Tecnologias Utilizadas
+
+- **Power BI**: Para visualização de dados e criação dos dashboards interativos.
+- **Excel/CSV**: Fontes de dados estruturadas utilizadas na importação para o Power BI.
