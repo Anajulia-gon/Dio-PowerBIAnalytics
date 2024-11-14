@@ -1,7 +1,17 @@
 # Relatório Analítico - Projeto de Power BI
 
 ## Objetivo do Projeto
-O principal objetivo deste relatório é fornecer uma visão abrangente das vendas e do lucro de uma empresa, com base nos dados analisados entre os anos de 2013 e 2014. O foco está em identificar os principais indicadores de desempenho, avaliar o desempenho de produtos e segmentos, além de oferecer insights que auxiliem na tomada de decisões estratégicas.
+Este projeto tem como objetivo analisar dados de vendas e lucro de uma empresa entre os anos de 2013 e 2014, utilizando o Power BI como ferramenta de visualização e análise. Com dashboards interativos e indicadores chave de desempenho (KPIs), o projeto oferece insights estratégicos para ajudar a empresa a entender melhor seu desempenho em diferentes segmentos de mercado, regiões geográficas e categorias de produtos.
+
+Os relatórios incluídos abordam tanto a análise de vendas quanto a análise detalhada de lucro, com gráficos e visualizações que facilitam a identificação de padrões e tendências importantes. Além disso, o projeto destaca oportunidades de melhoria e recomendações específicas para maximizar o desempenho e a lucratividade da empresa.
+
+## Objetivos do Projeto
+
+- Fornecer uma visão geral das métricas de vendas e lucro da empresa.
+- Identificar os principais produtos e segmentos responsáveis pelo desempenho financeiro.
+- Avaliar as tendências de vendas e lucro ao longo do tempo.
+- Oferecer insights estratégicos que possam apoiar a tomada de decisão.
+- Sugerir recomendações baseadas em dados para otimizar operações e aumentar a rentabilidade.
 
 ---
 
